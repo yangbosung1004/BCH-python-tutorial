@@ -1,4 +1,4 @@
-# A simple BCH-python-tutorial
+# A simple BCH error correction tutorial (Python)
 
 In this repository, we provide a simple tutorial of BCH error correction with python.
 
